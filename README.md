@@ -8,4 +8,5 @@ Nội dung các bài tập Lab:
   <li> <b> Lab 04: </b> Naive Bayes </li>
   <li> <b> Lab 05: </b> KMeans Clustering </li>
   <li> <b> Lab 06: </b> Hiearchical Clustering </li>
+  <li> <b> Lab 07: </b> Decision Tree and Random Forest </li>
 </ul>
