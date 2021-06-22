@@ -9,4 +9,6 @@ Nội dung các bài tập Lab:
   <li> <b> Lab 05: </b> KMeans Clustering </li>
   <li> <b> Lab 06: </b> Hiearchical Clustering </li>
   <li> <b> Lab 07: </b> Decision Tree and Random Forest </li>
+  <li> <b> Lab 08: </b> Backprobagation </li>
+  <li> <b> Lab 09: </b> Introduction to Tensorflow </li>
 </ul>
