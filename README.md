@@ -16,3 +16,6 @@ Nội dung các bài tập Lab:
   <li> <b> Lab 09: </b> Introduction to Tensorflow </li>
   <li> <b> Lab 10: </b> Support Vector Machine </li>
 </ul>
+<p>
+  <i>Note: </i> Chi tiết về code tạo ra ảnh .gif trên có trong <a href = "https://github.com/PhuThanh-Nguyen/Small-Projects/tree/main/Animation%20BGD%2C%20SGD%20and%20Mini-BGD" target = "_blank"> repo này </a>
+</p>
