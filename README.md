@@ -1,4 +1,7 @@
 # Introduction to Machine Learning Laboratory
+<p align="center">
+  <img src = "animation.gif" width = "600" height = "500">
+</p>
 Bài tập thực hành môn Nhập môn máy học HK2 20-21 <br/>
 Nội dung các bài tập Lab:
 <ul>
