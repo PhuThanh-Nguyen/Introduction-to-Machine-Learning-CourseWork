@@ -13,7 +13,7 @@ Nội dung các bài tập Lab:
   <li> <b> Lab 06: </b> Hiearchical Clustering </li>
   <li> <b> Lab 07: </b> Decision Tree and Random Forest </li>
   <li> <b> Lab 08: </b> Backprobagation </li>
-  <li> <b> Lab 09: </b> Introduction to Tensorflow </li>
+  <li> <b> Lab 09: </b> Introduction to Tensorflow and Keras </li>
   <li> <b> Lab 10: </b> Support Vector Machine </li>
 </ul>
 <p>
