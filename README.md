@@ -2,6 +2,10 @@
 <p align="center">
   <img src = "animation.gif" width = "600" height = "500">
 </p>
+<p align="center">
+  <i> Mô phỏng ba biến thể của Gradient Descent </i> </br>
+  <i> Từ trái sang phải, từ trên xuống dưới: </i> Batch Gradient Descent, Mini Batch Gradient Descent và Stochastic Gradient Descent
+</p>
 Bài tập thực hành môn Nhập môn máy học HK2 20-21 <br/>
 Nội dung các bài tập Lab:
 <ul>
